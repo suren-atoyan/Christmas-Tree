@@ -21,14 +21,18 @@ This simple javascript file, the source of which looks like "Christmas Tree", du
 7) Code reads and draws itself line by line.
 
 ### Install
-
+```bash
 $ git clone https://github.com/SurenAt93/Christmas-Tree.git
 
-$ npm i
+$ cd Christmas-Tree/
 
+$ npm i
+```
 ### Usage
 
+```bash
 $ node rc.js
+```
 
 ## License
 
