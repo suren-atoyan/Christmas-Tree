@@ -1,0 +1,26 @@
+{
+  "name": "christmas-tree",
+  "version": "1.0.0",
+  "description": "Singing Christmas tree, implemented by javascript.",
+  "main": "rc.js",
+  "dependencies": {
+    "lame": "^1.2.4",
+    "ora": "^1.3.0",
+    "speaker": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Christmas",
+    "tree",
+    "Jingle",
+    "Bells",
+    "nodejs",
+    "js",
+    "terminal"
+  ],
+  "author": "SurenAt",
+  "license": "MIT"
+}
