@@ -22,7 +22,7 @@ This simple javascript file, the source of which looks like "Christmas Tree", du
 
 ### Install
 
-$ git clone https://github.com/surenat93/christmas-tree.git
+$ git clone https://github.com/SurenAt93/Christmas-Tree.git
 
 $ npm i
 
