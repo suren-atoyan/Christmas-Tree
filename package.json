@@ -4,7 +4,7 @@
   "description": "Singing Christmas tree, implemented by javascript.",
   "main": "rc.js",
   "dependencies": {
-    "lame": "^1.2.4",
+    "lame": "https://github.com/suldashi/node-lame",
     "ora": "^1.3.0",
     "speaker": "^0.4.0"
   },
